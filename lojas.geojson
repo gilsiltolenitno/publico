@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "grupo_eco": 25,
+        "endereco": "AV CAVALHADA, 2875",
+        "bairro": "CAVALHADA",
+        "cidade": "PORTO ALEGRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-51.2276572, -30.1073523]
+      }
+    }
+  ]
+}
