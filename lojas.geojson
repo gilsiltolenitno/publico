@@ -1,0 +1,405 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "grupo_eco": 25,
+                "endereco": "AV CAVALHADA, 2875",
+                "bairro": "CAVALHADA",
+                "cidade": "PORTO ALEGRE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -51.2276572,
+                    -30.1073523
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "grupo_eco": 36,
+                "endereco": "RUA DOS ANDRADAS, 1252",
+                "bairro": "CENTRO",
+                "cidade": "PORTO ALEGRE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -51.2239578,
+                    -30.0296726
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "grupo_eco": 37,
+                "endereco": "RUA INDEPENDENCIA, 374",
+                "bairro": "CENTRO",
+                "cidade": "SAO LEOPOLDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -51.1464448,
+                    -29.7631927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "grupo_eco": 38,
+                "endereco": "RUA JULIO DE CASTILHOS, 1079",
+                "bairro": "CENTRO",
+                "cidade": "LAJEADO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -51.9623178,
+                    -29.4692963
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "grupo_eco": 48,
+                "endereco": "AV PROTASIO ALVES, 18",
+                "bairro": "PROTÁSIO ALVES",
+                "cidade": "PORTO ALEGRE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -51.2223,
+                    -30.03145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "grupo_eco": 50,
+                "endereco": "AV GETULIO VARGAS, 2085",
+                "bairro": "CENTRO",
+                "cidade": "ALVORADA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -51.0782936,
+                    -30.0000515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "grupo_eco": 55,
+                "endereco": "AV SAPUCAIA, 2014",
+                "bairro": "CENTRO",
+                "cidade": "SAPUCAIA DO SUL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -51.1548862,
+                    -29.8278119
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "grupo_eco": 65,
+                "endereco": "AV GENERAL FLORES DA CUNHA, 1200",
+                "bairro": "VILA IMBUHY",
+                "cidade": "CACHOEIRINHA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -51.1020435,
+                    -29.9523427
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "grupo_eco": 66,
+                "endereco": "AV 7 DE SETEMBRO, 1140",
+                "bairro": "CENTRO",
+                "cidade": "BAGE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -54.1025,
+                    -31.3279
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "grupo_eco": 69,
+                "endereco": "RUA SAO JOSE, 463",
+                "bairro": "CENTRO",
+                "cidade": "GUAIBA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -51.3177624,
+                    -30.1082845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "grupo_eco": 73,
+                "endereco": "AV PRESIDENTE VARGAS, 2015",
+                "bairro": "CENTRO",
+                "cidade": "ESTEIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -51.1733169,
+                    -29.8431378
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "grupo_eco": 74,
+                "endereco": "AV DA AZENHA, 781",
+                "bairro": "AZENHA",
+                "cidade": "PORTO ALEGRE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -51.2137379,
+                    -30.0475729
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "grupo_eco": 77,
+                "endereco": "RUA TIRADENTES, 135",
+                "bairro": "CENTRO",
+                "cidade": "CANOAS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -51.1791169,
+                    -29.919189
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "grupo_eco": 78,
+                "endereco": "RUA DR FLORES, 225",
+                "bairro": "CENTRO",
+                "cidade": "PORTO ALEGRE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -51.224581,
+                    -30.028216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "grupo_eco": 85,
+                "endereco": "RUA ANAPIO GOMES, 1464",
+                "bairro": "CENTRO",
+                "cidade": "GRAVATAI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -50.9946084,
+                    -29.9433343
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "grupo_eco": 87,
+                "endereco": "ESTRADA JOAO ANTONIO SILVEIRA, 1823",
+                "bairro": "RESTINGA",
+                "cidade": "PORTO ALEGRE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -51.2195,
+                    -30.0387
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "grupo_eco": 88,
+                "endereco": "AV FLORES DA CUNHA, 903",
+                "bairro": "Vila Veranopolis",
+                "cidade": "CACHOEIRINHA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -51.1034261,
+                    -29.95392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "grupo_eco": 91,
+                "endereco": "RUA INDEPENDENCIA, 691",
+                "bairro": "CENTRO",
+                "cidade": "SAO LEOPOLDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -51.1460858,
+                    -29.7657057
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "grupo_eco": 99,
+                "endereco": "RUA RIO BRANCO, 731",
+                "bairro": "VILA PONTA PORA",
+                "cidade": "CACHOEIRINHA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -51.0957373,
+                    -29.9434765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "grupo_eco": 109,
+                "endereco": "AV BENJAMIN CONSTANT",
+                "bairro": "CENTRO",
+                "cidade": "TORRES"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -49.7264588,
+                    -29.3347411
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "grupo_eco": 110,
+                "endereco": "AVENIDA ASSIS BRASIL, 2206",
+                "bairro": "PASSO D AREIA",
+                "cidade": "PORTO ALEGRE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -51.1710817,
+                    -30.0097226
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "grupo_eco": 111,
+                "endereco": "RUA 24 DE OUTUBRO, 1045",
+                "bairro": "AUXILIADORA",
+                "cidade": "PORTO ALEGRE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -51.1934639,
+                    -30.0220167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "grupo_eco": 114,
+                "endereco": "R REVENDO AMERICO VESPUCIO CABRAL",
+                "bairro": "CENTRO",
+                "cidade": "VIAMAO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -51,
+                    -29.834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "grupo_eco": 116,
+                "endereco": "AVENIDA PEDRO ADAMS FILHO, 5494",
+                "bairro": "CENTRO",
+                "cidade": "NOVO HAMBURGO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -51.129631,
+                    -29.6861148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "grupo_eco": 117,
+                "endereco": "AV DORIVAL CANDIDO LUZ DE OLIVEIRA",
+                "bairro": "VILA BRANCA",
+                "cidade": "GRAVATAI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -51.0381733,
+                    -29.9360547
+                ]
+            }
+        }
+    ]
+}
